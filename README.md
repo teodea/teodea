@@ -27,7 +27,7 @@ Almost everything here started the same way: I wanted something to exist, nobody
 
 Fantacarriera is fantasy football where your club doesn't get wiped every August. It carries multi year contracts, a wage bill, a stadium, a youth squad and a trophy cabinet that remembers. Sell a striker in October and you'll still be feeling it two seasons later.
 
-Ten of us run eight clubs in there. The rules are a document we vote on, and the app is what makes them real. That's honestly my favourite part of the whole thing: taking something ten people argue about and turning it into something they can't argue with.
+Eleven of us run eight clubs in there. The rules are a document we vote on, and the app is what makes them real. That's honestly my favourite part of the whole thing: taking something eleven people argue about and turning it into something they can't argue with.
 
 It runs on Next.js, FastAPI and Firestore, up on Cloud Run, and it has been live for a full season. Six months of evenings, roughly 1.200 commits. [Here's the longer story](https://github.com/teodea/fantacarriera). The source stays private, since a real league lives in there.
 
