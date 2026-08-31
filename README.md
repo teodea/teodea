@@ -29,7 +29,7 @@ Fantacarriera is fantasy football where your club doesn't get wiped every August
 
 Eleven of us run eight clubs in there. The rules are a document we vote on, and the app is what makes them real. That's honestly my favourite part of the whole thing: taking something eleven people argue about and turning it into something they can't argue with.
 
-It runs on Next.js, FastAPI and Firestore, up on Cloud Run, and it has been live for a full season. Six months of evenings, roughly 1.200 commits. [Here's the longer story](https://github.com/teodea/fantacarriera). The source stays private, since a real league lives in there.
+It runs on Next.js, FastAPI and Firestore, up on Cloud Run, and it has been played on since the 2025-26 season. Built in the evenings, over a thousand commits so far. [Here's the longer story](https://github.com/teodea/fantacarriera). The source stays private, since a real league lives in there.
 
 <br/>
 
@@ -63,7 +63,7 @@ From back when the fun was making hardware blink. A wallet protocol written stra
 
 ⚽ &nbsp;most of my projects turn out to be football in disguise. Fantasy leagues, match footage, tactics. I've stopped fighting it.
 
-🗒️ &nbsp;I write the decision down before I write the code. There are 68 of those notes sitting behind Fantacarriera, and six months later they're the reason I still understand it.
+🗒️ &nbsp;I write the decision down before I write the code. There are close to seventy of those notes sitting behind Fantacarriera, and they're the reason I can still find my way around it.
 
 🌍 &nbsp;Italian, English and Spanish, in roughly that order of confidence.
 
