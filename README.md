@@ -1,7 +1,7 @@
 <h1 align="center">Matteo De Angelis</h1>
 
 <p align="center">
-  <i>Ten friends, eight clubs, one football league.<br/>
+  <i>Eleven friends, eight clubs, one football league.<br/>
   At some point I started turning it into software.</i>
 </p>
 
