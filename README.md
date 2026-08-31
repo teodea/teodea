@@ -35,16 +35,16 @@ It runs on Next.js, FastAPI and Firestore, up on Cloud Run, and it has been live
 
 ## 🧰 Other things I made
 
-🧾 &nbsp;**[gross to net salary calculator](https://teodea.github.io/jethr-task/)**
+🧾 &nbsp;**[gross to net salary calculator](https://teodea.github.io/jethr-task/)**<br/>
 Italian payslips are a black box. This one opens it: every line of the tax waterfall, each with a plain explanation and the actual law it comes from. It covers all 7.896 municipalities, because your comune quietly changes the answer. No build step, no dependencies, it's just a page that opens.
 
-🎥 &nbsp;**[automated soccer vision](https://github.com/teodea/automated-soccer-vision)**
+🎥 &nbsp;**[automated soccer vision](https://github.com/teodea/automated-soccer-vision)**<br/>
 Point it at TV footage of a match and it works out who's who, which team they're on, and how fast they're actually running in real metres. Detection, tracking, and a bit of geometry to flatten the pitch into a top down view.
 
-📄 &nbsp;**[arXiv paper classifier](https://github.com/teodea/arxiv-paper-classifier)** and 🛣️ &nbsp;**[traffic network centrality](https://github.com/teodea/traffic-network-centrality)**
+📄 &nbsp;**[arXiv paper classifier](https://github.com/teodea/arxiv-paper-classifier)** and 🛣️ &nbsp;**[traffic network centrality](https://github.com/teodea/traffic-network-centrality)**<br/>
 Two from my Miami years. One reads a paper's title and abstract and guesses its field. The other asks whether the roads that matter mathematically in Florida are the ones people actually drive on. (Sometimes yes.)
 
-🕹️ &nbsp;**[digital wallet](https://github.com/teodea/digital-wallet)** and 🐍 &nbsp;**[Snake on a DE1-SoC](https://github.com/teodea/snake-game-de1soc-controlled)**
+🕹️ &nbsp;**[digital wallet](https://github.com/teodea/digital-wallet)** and 🐍 &nbsp;**[Snake on a DE1-SoC](https://github.com/teodea/snake-game-de1soc-controlled)**<br/>
 From back when the fun was making hardware blink. A wallet protocol written straight onto TCP sockets, and Snake in C that you play by tilting the board.
 
 <br/>
