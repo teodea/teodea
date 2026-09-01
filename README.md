@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://fantacarriera.app">
-    <img src="https://raw.githubusercontent.com/teodea/fantacarriera/main/docs/dashboard.png" width="780" alt="Fantacarriera, the app I keep working on"/>
+    <img src="https://raw.githubusercontent.com/teodea/fantacarriera/main/docs/hero.png" width="780" alt="Fantacarriera: a matchday scored side by side, the squad by position, the player catalogue and the league table"/>
   </a>
 </p>
 
