@@ -36,7 +36,7 @@ It runs on Next.js, FastAPI and Firestore, up on Cloud Run, and it has been play
 ## 🧰 Other things I made
 
 🔀 &nbsp;**[Randomizer](https://teodea.github.io/randomizer/)**<br/>
-Spotify shuffles one playlist at a time, and I never want just one. Pick a few, decide how they should mix (every playlist gets an equal say, or 70/30, or take turns), and it builds one queue, keeps the same artist from playing twice in a row, and tidies the playlist away when you're done. Runs entirely in the browser, no backend. Spotify only lets five accounts in, so there's a [demo](https://teodea.github.io/randomizer/demo) with sample playlists for everyone else.
+I sort music more than any reasonable person should. There's no "rap" in my library: there's Italian rap and English rap, and then rap from the 2010s and rap from the 2020s. The electronic side splits into house, deep, techno, chill, and a few more I'd struggle to defend. The trouble is that my mood rarely fits inside one of them, and Spotify only shuffles one playlist at a time. So Randomizer takes several, lets me decide how they mix (an equal say each, 70/30, or taking turns), and plays them as one queue, while every playlist stays exactly the way I sorted it. It also keeps the same artist from playing twice in a row, and clears its temporary playlist away when I'm done. Runs entirely in the browser, no backend. Spotify only lets five accounts in, so there's a [demo](https://teodea.github.io/randomizer/demo) with sample playlists for everyone else.
 
 <p align="center">
   <a href="https://teodea.github.io/randomizer/demo">
