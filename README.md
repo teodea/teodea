@@ -72,7 +72,7 @@ From back when the fun was making hardware blink. A wallet protocol written stra
 
 ⚽ &nbsp;most of my projects turn out to be football in disguise. Fantasy leagues, match footage, tactics. I've stopped fighting it.
 
-🗒️ &nbsp;I write the decision down before I write the code. There are close to seventy of those notes sitting behind Fantacarriera, and they're the reason I can still find my way around it.
+🗒️ &nbsp;I write the decision down before I write the code. There are more than seventy of those notes sitting behind Fantacarriera, and they're the reason I can still find my way around it.
 
 🌍 &nbsp;Italian, English and Spanish, in roughly that order of confidence.
 
