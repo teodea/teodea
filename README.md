@@ -35,6 +35,15 @@ It runs on Next.js, FastAPI and Firestore, up on Cloud Run, and it has been play
 
 ## 🧰 Other things I made
 
+🔀 &nbsp;**[Randomizer](https://teodea.github.io/randomizer/)**<br/>
+Spotify shuffles one playlist at a time, and I never want just one. Pick a few, decide how they should mix (every playlist gets an equal say, or 70/30, or take turns), and it builds one queue, keeps the same artist from playing twice in a row, and tidies the playlist away when you're done. Runs entirely in the browser, no backend. Spotify only lets five accounts in, so there's a [demo](https://teodea.github.io/randomizer/demo) with sample playlists for everyone else.
+
+<p align="center">
+  <a href="https://teodea.github.io/randomizer/demo">
+    <img src="assets/randomizer.png" width="640" alt="Randomizer: three playlists picked, each taking a third of the mix, and the shuffled queue beside them"/>
+  </a>
+</p>
+
 🧾 &nbsp;**[gross to net salary calculator](https://teodea.github.io/jethr-task/)**<br/>
 Italian payslips are a black box. This one opens it: every line of the tax waterfall, each with a plain explanation and the actual law it comes from. It covers all 7.896 municipalities, because your comune quietly changes the answer. No build step, no dependencies, it's just a page that opens.
 
@@ -52,9 +61,9 @@ From back when the fun was making hardware blink. A wallet protocol written stra
 ## 🛠️ What I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,matlab,react,nextjs,tailwind&perline=9" alt="TypeScript, JavaScript, Python, C, C++, MATLAB, React, Next.js, Tailwind"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,matlab,react,nextjs,vite,tailwind&perline=10" alt="TypeScript, JavaScript, Python, C, C++, MATLAB, React, Next.js, Vite, Tailwind"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,pytorch,opencv,firebase,gcp,docker,mysql,git&perline=9" alt="FastAPI, Flask, PyTorch, OpenCV, Firebase, Google Cloud, Docker, MySQL, Git"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,pytorch,opencv,firebase,gcp,docker,mysql,git&perline=10" alt="FastAPI, Flask, PyTorch, OpenCV, Firebase, Google Cloud, Docker, MySQL, Git"/>
 </p>
 
 <br/>
