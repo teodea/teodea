@@ -60,10 +60,19 @@ From back when the fun was making hardware blink. A wallet protocol written stra
 
 ## 🛠️ What I work with
 
+<h6 align="center">BUILDING THINGS</h6>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,matlab,react,nextjs,vite,tailwind&perline=10" alt="TypeScript, JavaScript, Python, C, C++, MATLAB, React, Next.js, Vite, Tailwind"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,react,nextjs,vite,tailwind,fastapi,flask,firebase,gcp,docker,mysql,git&perline=8" alt="TypeScript, JavaScript, Python, C, C++, React, Next.js, Vite, Tailwind, FastAPI, Flask, Firebase, Google Cloud, Docker, MySQL, Git"/>
+</p>
+
+<h6 align="center">DATA AND MACHINE LEARNING</h6>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,matlab" alt="PyTorch, scikit-learn, OpenCV, MATLAB"/>
+</p>
+<p align="center">
+  <sub>and around them NumPy, pandas, Matplotlib and Jupyter · YOLO and Supervision for video</sub>
   <br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,pytorch,opencv,firebase,gcp,docker,mysql,git&perline=10" alt="FastAPI, Flask, PyTorch, OpenCV, Firebase, Google Cloud, Docker, MySQL, Git"/>
+  <sub>NLTK and spaCy for text · NetworkX and GeoPandas for graphs and maps</sub>
 </p>
 
 <br/>
