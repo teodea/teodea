@@ -57,7 +57,7 @@ I sort music more than any reasonable person should. There's no "rap" in my libr
 Italian payslips are a black box. This one opens it: every line of the tax waterfall, each with a plain explanation and the actual law it comes from. It covers all 7.896 municipalities, because your comune quietly changes the answer. No build step, no dependencies, it's just a page that opens.
 
 🕹️ &nbsp;**[digital wallet](https://github.com/teodea/digital-wallet)** and 🐍 &nbsp;**[Snake on a DE1-SoC](https://github.com/teodea/snake-game-de1soc-controlled)**<br/>
-From back when the fun was making hardware blink. A wallet protocol written straight onto TCP sockets, and Snake in C that you play by tilting the board.
+From back when the fun was making hardware blink. A wallet protocol written straight onto TCP sockets, and Snake in C drawing straight into the board's VGA buffer through memory-mapped I/O.
 
 <br/>
 
